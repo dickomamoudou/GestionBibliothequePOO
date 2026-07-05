@@ -1,0 +1,19 @@
+# Fichiers compilés Python
+__pycache__/
+*.py[cod]
+
+# Environnements virtuels
+venv/
+.venv/
+env/
+
+# Fichiers de build
+build/
+dist/
+*.spec
+
+# Cache Streamlit
+.streamlit/
+
+# Fichiers temporaires
+*.log
